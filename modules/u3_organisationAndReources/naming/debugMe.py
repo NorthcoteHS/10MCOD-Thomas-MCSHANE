@@ -1,7 +1,7 @@
 """
 Prog:   yesNoProgram.py
-Name:   Student Name
-Date:   12/03/18
+Name:   Tom
+Date:   2018/05/01
 Desc:   Answers yes or no to any question.
 """
 

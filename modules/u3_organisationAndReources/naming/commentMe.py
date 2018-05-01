@@ -1,17 +1,17 @@
 """
-Prog: Circle Calculator
-Name: Thomas Mc
-Date: 1/05/2018
+Prog: circCalc.py
+Name: Tom
+Date: 2018/05/01
 Desc: Calculate area and perimeter of a circle
 """
-print('Welcome to the Circle Calculator!')
 # Welcome User
+print('Welcome to the Circle Calculator!')
+# Ask User for Radius
 r = input('Enter a radius: ')
 r = int(r)
-# Ask User for Radius
+# Calculate and print are
 area = 3.14 * r * r
 print('The area is', area)
-# Calculate and print are
+# Calculate and print perimeter
 perimeter = 3.14 * r * 2
 print('The perimeter is', perimeter)
-# Calculate and print perimeter
